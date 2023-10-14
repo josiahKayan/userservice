@@ -1,0 +1,6 @@
+fastapi[all]
+sqlalchemy
+databases
+dataclasses
+aiosqlite
+bcrypt
